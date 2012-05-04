@@ -14,8 +14,9 @@ How To Use
 ==========
 After you put the files into your project, open main.c and main.h. Edit/paste your solution and tests into these files respectively. The only thing you need to do, is including main.h in main.c like this:
 ```c
-#include main.h
+#include "main.h"
 ```
+When you're reading to compile, use debug (if you have a debugger) or run to test your code.
 
 Troubleshooting
 ===============
