@@ -16,7 +16,7 @@ After you put the files into your project, open main.c and main.h. Edit/paste yo
 ```c
 #include "main.h"
 ```
-When you're reading to compile, use debug (if you have a debugger) or run to test your code.
+When you're ready to compile, use debug (if you have a debugger) or run to test your code.
 
 Troubleshooting
 ===============
