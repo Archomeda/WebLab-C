@@ -4,9 +4,9 @@ Compiling C applications on WebLab takes a lot of time. If you follow the instru
 
 Installation Instructions
 =========================
-First you need to download a C IDE, we'll use [Eclipse CDT](http://www.eclipse.org/cdt/ "Eclipse CDT") as an example here.
-Create a new C Project (with your desired toolchain).
-Import the files included in the src directory.
+* First you need to download a C IDE, we'll use [Eclipse CDT](http://www.eclipse.org/cdt/ "Eclipse CDT") as an example here.
+* Create a new C Project (with your desired toolchain).
+* Import the files included in the src directory.
 
 How To Use
 ==========
